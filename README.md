@@ -1,11 +1,11 @@
 ### Hi there,  👋
-<img src="https://komarev.com/ghpvc/?username=snh3003&label=Views&color=blue&style=plastic" alt="snh3003" />
+<img src="https://komarev.com/ghpvc/?username=snh3003&label=Views&color=blue&style=plastic" alt="adi44" />
 
 - 🔭 Have good experience working on React, DSA, Android & Python.
 - 🌱 I’m currently learning a lot of things.
-- 📫 Got incredible ideas that you wish to discuss? : [Connect](linkedin.com/in/snh3003)
-- :books: Like to read?: [Follow](https://medium.com/@shahsama542)
-- 💻: My portfolio [Click here](https://snh3003.github.io/personalportfolio/)
+- 📫 Got incredible ideas that you wish to discuss? : [Connect](linkedin.com/in/adityadhir)
+- :books: Like to read?: [Follow](https://medium.com/@adityadhir97)
+
 - ⚡ Fun fact: Few lines of code can do wonders.
 
 **Languages and Tools:**  
@@ -17,4 +17,4 @@
 <code><img height="20" src="https://i.redd.it/31b2ii8hchi31.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-[![Shahab's github stats](https://github-readme-stats.vercel.app/api?username=snh3003)](https://github.com/snh3003/github-readme-stats)
+[![Shahab's github stats](https://github-readme-stats.vercel.app/api?username=adi44)](https://github.com/snh3003/github-readme-stats)
