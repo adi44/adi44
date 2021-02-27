@@ -1,7 +1,7 @@
 ### Hi there,  👋
 <img src="https://komarev.com/ghpvc/?username=snh3003&label=Views&color=blue&style=plastic" alt="adi44" />
 
-- 🔭 Have good experience working on React, DSA, Android & Python.
+- 🔭 Have good experience working on React, DSA, Blockchain,Defi.
 - 🌱 I’m currently learning a lot of things.
 - 📫 Got incredible ideas that you wish to discuss? : [Connect](linkedin.com/in/adityadhir)
 - :books: Like to read?: [Follow](https://medium.com/@adityadhir97)
