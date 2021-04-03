@@ -3,7 +3,7 @@
 
 - 🔭 Have good experience working on React, DSA, Blockchain,Defi.
 - 🌱 I’m currently learning a lot of things.
-- 📫 Got incredible ideas that you wish to discuss? : [Connect](linkedin.com/in/adityadhir)
+- 📫 Got incredible ideas that you wish to discuss? : [Connect](https://linkedin.com/in/adityadhir)
 - :books: Like to read?: [Follow](https://medium.com/@adityadhir97)
 
 - ⚡ Fun fact: Few lines of code can do wonders.
