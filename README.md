@@ -1,82 +1,87 @@
 # Hi, I'm Aditya Dhir 👋
 
-### Senior Software Engineer • AI Systems Builder • Tech Advisor
+### Senior Engineer • AI Systems Builder • Tech Advisor
 
-Building AI-enabled products, cloud-native platforms, and Web3 infrastructure.
+I build AI-enabled products, scalable backend systems, and Web3 infrastructure.
 
-I help founders and teams make better technical decisions before they become expensive mistakes.
+Over the last 5+ years, I've worked as a founding engineer, blockchain engineer, backend architect, and AI platform engineer—helping teams turn ambitious ideas into production-ready products.
+
+Currently focused on Agentic AI, AI Product Strategy, and AI-powered SaaS platforms.
 
 ---
 
 ## 🚀 What I Do
 
-* Design and build AI-powered SaaS platforms
-* Architect backend systems and cloud infrastructure
-* Develop AI agents and LLM applications
+* Design AI-native products and platforms
+* Build agentic workflows and LLM applications
+* Architect cloud-native backend systems
 * Advise startups on technical strategy
-* Build blockchain and RWA tokenization platforms
+* Build blockchain and tokenization infrastructure
 
 ---
 
-## 🏆 Highlights
+## 🏆 Career Highlights
 
-* 5+ years of software engineering experience
-* Senior Software Engineer (AI) at NWN
-* Founding Engineer at MetaKeep
-* 2nd Prize – Polygon Open DeFi Hackathon
+* Senior Software Engineer (AI) @ NWN
+* Founding Engineer @ MetaKeep
+* Built AI-enabled SaaS and Web3 platforms used in production
+* 2nd Prize Winner – Polygon Open DeFi Hackathon
 * Silver Medal – Annual Research Day 2021
 * Master's in Data Science
-* Post Graduate Program in Data Engineering
+* PG Diploma in Data Engineering
 
 ---
 
-## 💡 Current Interests
+## 🧠 Areas of Interest
 
 * Agentic AI
-* AI Product Management
 * Multi-Agent Systems
-* AI Consulting
+* AI Product Management
+* Technical Leadership
+* RAG & Knowledge Systems
 * AI Infrastructure
-* RAG Systems
-* Product Strategy
-* Founder-Led Engineering
+* Startup Technology Strategy
 
 ---
 
 ## 🛠 Tech Stack
 
-### AI & Data
+**Languages**
 
-Python • LangChain • Amazon Bedrock • OpenAI • RAG • Vector Databases • Spark • Kafka
+Python • TypeScript • JavaScript • Solidity • SQL
 
-### Backend
+**AI**
 
-FastAPI • Flask • NestJS • Node.js • TypeScript • REST APIs • Microservices
+Amazon Bedrock • OpenAI • LangChain • RAG • Vector Databases
 
-### Cloud
+**Backend**
 
-AWS • Lambda • EC2 • SQS • Cognito • Docker • Kubernetes
+FastAPI • Flask • NestJS • Node.js • Microservices
 
-### Blockchain
+**Cloud**
 
-Solidity • Ethereum • Polygon • ERC-20 • ERC-721 • ERC-3643 • Wallet Infrastructure
+AWS • Lambda • SQS • EC2 • Cognito • Docker • Kubernetes
 
-### Databases
+**Blockchain**
 
-PostgreSQL • MongoDB • Redis • DynamoDB
+Ethereum • Polygon • Solana • ERC Standards • Wallet Infrastructure
+
+**Data**
+
+Kafka • Spark • PostgreSQL • MongoDB • Redis
 
 ---
 
 ## ✍️ Writing
 
-I write about:
+I regularly write about:
 
 * AI Product Development
 * Agentic AI
-* Software Architecture
-* Product Thinking
+* System Design
+* Software Engineering
 * Blockchain Infrastructure
-* Career Growth for Engineers
+* Career Growth
 
 📖 Medium: https://medium.com/@adityadhir97
 
@@ -84,11 +89,11 @@ I write about:
 
 ## 🌱 Building In Public
 
-Currently documenting my journey from:
+Documenting my transition from:
 
-**Senior Engineer → AI Product Leader**
+**Senior Engineer → AI Product Leader → Founder**
 
-Sharing lessons on technology, product strategy, and building AI-first businesses.
+Sharing lessons from building products, advising startups, and working at the intersection of AI, software, and business.
 
 ---
 
